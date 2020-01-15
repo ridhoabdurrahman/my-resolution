@@ -1,3 +1,4 @@
-Belajar Laravel
-Belajar Vue.js
-Belajar Android Programming
+Resolusi Saya :
+-Belajar Laravel
+-Belajar Vue.js
+-Belajar Android Programming
